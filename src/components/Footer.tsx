@@ -260,7 +260,7 @@ const Footer: React.FC = () => {
           </a>
         </span>
         <span>
-          Made with 💖 by{" "}
+          Made with 💛 by{" "}
           <a
             href="https://velra.co.uk"
             target="_blank"
