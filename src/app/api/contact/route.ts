@@ -45,7 +45,7 @@ export async function POST(req: Request) {
 
   // Setup Nodemailer transporter
   const transporter = nodemailer.createTransport({
-    host: process.env.SMTP_HOST || "smtp.velra.co.uk",
+    host: process.env.SMTP_HOST || "smtp.astructcom.com",
     port: Number(process.env.SMTP_PORT) || 587,
     secure: Number(process.env.SMTP_PORT) === 465,
     auth: {
