@@ -111,16 +111,16 @@ export default function HomePage() {
             <div className="md:w-1/2">
               <img
                 src="/assets/projects/project51.jpg"
-                alt="About Astruct"
+                alt="About AstructCom"
                 className=" rounded-l-3xl shadow-[0_0_15px_rgba(0,0,0,0.1)] w-full"
               />
             </div>
             <div className="md:w-1/2">
               <h2 className="text-5xl font-bold text-[#444598] mb-6">
-                About Astruct
+                About AstructCom
               </h2>
               <p className="mb-4">
-                At Astruct, we are committed to delivering innovative and
+                At AstructCom, we are committed to delivering innovative and
                 effective solutions that drive growth and success. Our team of
                 experts combines creativity with technical expertise to bring
                 your vision to life.
