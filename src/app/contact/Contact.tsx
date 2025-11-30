@@ -53,10 +53,6 @@ const Contact = () => {
   };
 
   const handleSubmit = async () => {
-    console.log("Submitting form...");
-    console.log("Captcha values:", captcha);
-    console.log("Captcha valid:", captchaValid);
-    console.log("Form data:", form);
     // Validate captcha
     if (!captchaValid) {
       toast.error("Please solve the math question correctly.");
