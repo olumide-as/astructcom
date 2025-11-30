@@ -153,7 +153,7 @@ const Navbar: React.FC = () => {
 
           {/* Hamburger Button */}
           {!menuOpen && (
-            <div className="lg:hidden flex items-center justify-between w-full">
+            <div className="xl:hidden flex items-center justify-between w-full">
               <Link href="/">
                 <Image
                   src="/assets/astructcom.png"
