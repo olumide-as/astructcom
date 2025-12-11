@@ -1,5 +1,5 @@
 /** @type {import('next-sitemap').IConfig} */module.exports = {
-  siteUrl: 'https://chellastonhs.co.uk', // your site URL
+  siteUrl: 'https://astructcom.com', // your site URL
   generateRobotsTxt: true, // generate robots.txt
   sitemapSize: 5000, // number of URLs per sitemap file
   changefreq: 'weekly', // optional
