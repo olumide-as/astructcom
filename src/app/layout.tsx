@@ -20,6 +20,11 @@ export const metadata: Metadata = {
     "industrial construction",
     "commercial construction"
   ],
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
   alternates: {
     canonical: "https://www.astructcom.com",
   },
